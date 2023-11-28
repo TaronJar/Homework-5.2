@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Task07 {
     public static void main(String[] args) {
-        System.out.println("Задание: 07");
+        System.out.println("Задание: 7");
         Scanner scanner = new Scanner(System.in);
         System.out.print("Введите размерность массива: ");
         int n = scanner.nextInt();
