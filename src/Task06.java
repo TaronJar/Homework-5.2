@@ -1,6 +1,6 @@
 public class Task06 {
     public static void main(String[] args) {
-        System.out.println("Задание: 06");
+        System.out.println("Задание: 6");
         int[] array = new int[10];
 
         // Заполнение массива случайными числами от -10 до +10
