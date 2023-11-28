@@ -1,6 +1,6 @@
 public class Task02 {
     public static void main(String[] args) {
-        System.out.println("Задание: 02");
+        System.out.println("Задание: 2");
         int[] array = new int[30];
         int min = 50;
         int max = -70;
