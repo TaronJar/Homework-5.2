@@ -1,5 +1,6 @@
 public class Task12 {
     public static void main(String[] args) {
+        System.out.println("Задание: 12");
         int[] array = {1, 2, 3, 2, 1}; // Инициализация массива
 
         boolean isSymmetric = true; // Флаг для проверки симметричности
